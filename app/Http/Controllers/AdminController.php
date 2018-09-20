@@ -21,6 +21,7 @@ use App\Order;
 use App\UserUserType;
 use App\UserType;
 use App\Coupon;
+use App\UserUserType;
 use Illuminate\Support\Facades\Input;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Validator;
